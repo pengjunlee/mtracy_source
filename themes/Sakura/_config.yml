@@ -17,7 +17,7 @@ lazyloadImg: https://cdn.jsdelivr.net/gh/pengjunlee/picture-warehouse/img/orange
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
   归档: { path: /archives, fa: fa-archive faa-shake, submenus: {
-    Java: {path: /categories/Java/, fa: fa-code }, 
+    编程: {path: /categories/编程/, fa: fa-code }, 
     技术: {path: /categories/技术/, fa: fa-cogs }, 
     生活: {path: /categories/生活/, fa: fa-file-text-o }, 
     资源: {path: /categories/资源/, fa: fa-cloud-download }, 
