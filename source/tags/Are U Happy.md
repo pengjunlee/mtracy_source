@@ -1,7 +1,19 @@
 ---
-title: tags
-date: 2018-12-12 22:14:16
+title: Are U Happy
+author: 李朋军
+avatar: https://cdn.jsdelivr.net/gh/pengjunlee/picture-warehouse/img/logo.jpg
+authorLink: pengjunlee
+authorAbout: 为他人带来阳光的人，自己也一定会沐浴在阳光下。
+authorDesc: 我们只是远远的相见，而梦却缩短了距离。
+comments: true
+date: 2020-05-31 11:56:03
+tags: 图集
+keywords: Happy
+description: Are U Happy
+photos: https://cdn.jsdelivr.net/gh/pengjunlee/picture-warehouse/photo/happy.png
 ---
+
+
 {% fb_img https://cdn.jsdelivr.net/gh/pengjunlee/picture-warehouse/wallpaper/AreUHappy/1.jpg AreUHappy1 %}
 {% fb_img https://cdn.jsdelivr.net/gh/pengjunlee/picture-warehouse/wallpaper/AreUHappy/2.jpg AreUHappy2 %}
 {% fb_img https://cdn.jsdelivr.net/gh/pengjunlee/picture-warehouse/wallpaper/AreUHappy/3.jpg AreUHappy3 %}
